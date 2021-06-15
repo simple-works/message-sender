@@ -1,0 +1,17 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MessageSender.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MessageSender.exe.manifest
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MessageSender.application
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MessageSender.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MessageSender.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MySql.Data.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\bin\Release\MySql.Data.xml
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.Form_Exception.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.Form_Login.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.Form_Splash.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\Message Sender.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.exe.manifest
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.application
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\z_ Talk\Message Sender\Message Sender\obj\x86\Release\MessageSender.pdb
